@@ -5,7 +5,7 @@ This was created using the following steps:
 2. `meteor update --release 1.8-rc.16`
 3. `meteor add accounts-google@1.3.2-rc18.16`
 
-When running the app and opening in IE11, you'll ge tthe following errors:
+When running the app and opening in IE11, you'll get the following errors:
 
 ```
 Syntax error
